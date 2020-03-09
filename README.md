@@ -17,6 +17,7 @@ Yes, I'm sure there is probably already something out there that does that. And 
 - [ ] Understand Methods
 - [ ] Creating own Packages
 - [ ] Handling Errors
+- [ ] Go Linting
 - [ ] Testing
 - [ ] Concurrency 
 
