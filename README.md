@@ -36,6 +36,6 @@ Please feel free to use anything you may find here or submit issue offering up h
 
 ## Books, Articles, Resources...
 
-- [Introducing Go]() - Caleb Doxsey
+- [Introducing Go](https://www.amazon.com/Introducing-Go-Reliable-Scalable-Programs/dp/1491941952/ref=sr_1_1?keywords=introducing+go&qid=1583785825&sr=8-1) - Caleb Doxsey
 
 - [TutorialEdge.net](https://tutorialedge.net/course/golang/) - Go Tutorials
