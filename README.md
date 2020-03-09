@@ -9,25 +9,25 @@ Yes, I'm sure there is probably already something out there that does that. And 
 
 #### Learned aspects of Go Language Explored in this project include (but not limited to):
 
-- [ ] - Setting up your Workspace
-- [ ] - Project structure best practices
-- [ ] - Understaning Arrays, Slices and Maps
-- [ ] - Working with Stucts
-- [ ] - Working with Modules
-- [ ] - Understand Methods
-- [ ] - Creating own Packages
-- [ ] - Handling Errors
-- [ ] - Testing
-- [ ] - Concurrency 
+- [ ] Setting up your Workspace
+- [ ] Project structure best practices
+- [ ] Understaning Arrays, Slices and Maps
+- [ ] Working with Stucts
+- [ ] Working with Modules
+- [ ] Understand Methods
+- [ ] Creating own Packages
+- [ ] Handling Errors
+- [ ] Testing
+- [ ] Concurrency 
 
 #### Certain Topics/Things I want to be able to work on (but not limited to):
 
-- [ ] - How to consume APIs
-- [ ] - How to consume and work with JSON
-- [ ] - Creating a CLI tool with a popular CLI framework
-- [ ] - Working with a DB
-- [ ] - Writing my own API server
-- [ ] - Creating an Auth service or securing API with JWT
+- [ ] How to consume APIs
+- [ ] How to consume and work with JSON
+- [ ] Creating a CLI tool with a popular CLI framework
+- [ ] Working with a DB
+- [ ] Writing my own API server
+- [ ] Creating an Auth service or securing API with JWT
 
 Please feel free to use anything you may find here or submit issue offering up helpful criticism as I am looking to better myself in this craft. Perhaps best case scenario you are in the same situation as me and find something useful that helps you learn as well. 
 
