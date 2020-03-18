@@ -16,6 +16,7 @@ limitations under the License.
 package cmd
 
 import (
+	"fmt"
 	"pokemon/pkg/trainers"
 
 	"github.com/spf13/cobra"
@@ -23,16 +24,17 @@ import (
 
 // trainerCmd represents the trainer command
 var trainerCmd = &cobra.Command{
-	Use:   "trainer",
-	Short: "Find a list of Pokemon Trainer Pokedexes",
-	Long: `A longer description that spans multiple lines and likely contains examples
-and usage of using your command. For example:
+	Use:   "trainers",
+	Short: "List of all available Trainer Pokedexes",
+	// 	Long: `A longer description that spans multiple lines and likely contains examples
+	// and usage of using your command. For example:
 
-Cobra is a CLI library for Go that empowers applications.
-This application is a tool to generate the needed files
-to quickly create a Cobra application.`,
+	// Cobra is a CLI library for Go that empowers applications.
+	// This application is a tool to generate the needed files
+	// to quickly create a Cobra application.`,
 	Run: func(cmd *cobra.Command, args []string) {
-		//fmt.Println("trainer called")
+		fmt.Println("TRAINER NAME")
+		fmt.Println("------------")
 		trainers.Trainers()
 	},
 }
